@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/FUC1OEr" data-context="false" ><a href="//imgur.com/a/FUC1OEr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="codepath-prework.gif" alt="Virtualbox Installation">
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
